@@ -11,12 +11,13 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "scheme":"com.srijanbiswas.homeserviceapp",
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.homeserviceapp",
+      "bundleIdentifier": "com.srijanbiswas.homeserviceapp",
       "buildNumber": "1"
     },
     "android": {
@@ -35,9 +36,7 @@
         "projectId": "169b39a5-f49f-4db5-a950-3a070e9d446c"
       }
     },
-    "runtimeVersion": {
-      "policy": "sdkVersion"
-    },
+    "runtimeVersion": "1.0.0",
     "updates": {
       "url": "https://u.expo.dev/169b39a5-f49f-4db5-a950-3a070e9d446c"
     },

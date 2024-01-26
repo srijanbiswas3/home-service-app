@@ -3,6 +3,15 @@
 Welcome to the Home-Service app! This React Native Expo application allows users to access various home services, book appointments, receive email confirmations, and check the status of their bookings.
 
 ## Getting Started
+To Run this without cloning, Download Expo App from Play Store/App Store and scan the following qr
+
+From Android Device
+
+![Android QR](https://github.com/srijanbiswas3/home-service-app/blob/main/asset/home-service-app/android_qr.PNG)
+
+From IOS Device
+
+![IOS QR](https://github.com/srijanbiswas3/home-service-app/blob/main/asset/home-service-app/ios_qr.PNG)
 
 ### Prerequisites
 
@@ -32,7 +41,7 @@ Welcome to the Home-Service app! This React Native Expo application allows users
 
 - **Service Selection:** Browse and select from a variety of home services.
 
- ![Service Selection](https://github.com/srijanbiswas3/home-service-app/blob/main/asset/home-service-app/IMG_2558.PNG))
+ ![Service Selection](https://github.com/srijanbiswas3/home-service-app/blob/main/asset/home-service-app/IMG_2558.PNG)
 - **Booking Functionality:** Book appointments for selected services.
 
  ![Book Appointments](https://github.com/srijanbiswas3/home-service-app/blob/main/asset/home-service-app/IMG_2560.PNG)
